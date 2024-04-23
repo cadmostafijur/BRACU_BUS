@@ -7,18 +7,18 @@ With its user-friendly interface and comprehensive features, the Online Bus Tick
 <br>
 1. Sign up<br>
 2. User Login<br>
-3. Admin Login
-4. Forget password
-5. User Dashboard
-6. Users updating profiles
-7. Admin Dashboard
-8. Export to excel /csv
-9. Reject ticket (admin)
-10. Book ticket
-11. View ticket
-12. Add buss Schedule (admin)
-13. User review
-14. Admin feedbacks
+3. Admin Login<br>
+4. Forget password<br>
+5. User Dashboard<br>
+6. Users updating profiles<br>
+7. Admin Dashboard<br>
+8. Export to excel /csv<br>
+9. Reject ticket (admin)<br>
+10. Book ticket<br>
+11. View ticket<br>
+12. Add buss Schedule (admin)<br>
+13. User review<br>
+14. Admin feedbacks<br>
  
 # Language:
 Frontend: HTML, CSS, PHP 
