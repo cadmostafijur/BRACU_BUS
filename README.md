@@ -5,8 +5,8 @@ With its user-friendly interface and comprehensive features, the Online Bus Tick
 
 # Project Features 
 <br>
-1. Sign up
-2. User Login
+1. Sign up<br>
+2. User Login<br>
 3. Admin Login
 4. Forget password
 5. User Dashboard
