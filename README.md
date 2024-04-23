@@ -1,9 +1,9 @@
 
-****Introduction****
+#****Introduction****
 Online Bus Ticket Management System is a platform for students of BRAC University. In the nustling environment of a university campus like BRAC  University ,efficient transportation is essential for students to navigate their academic journey smoothly. Online Bus Ticket Management System is  a convenient platform specially designed for BRAC University students to purchase bus tickets seamlessly without any hassle.The online bus ticket management system not only simplifies the ticketing process but also enhances the overall transportation experience for students. By providing real-time updates, it empowers students to plan their journeys efficiently, ensuring they reach their destinations on time.
 With its user-friendly interface and comprehensive features, the Online Bus Ticket Management System has revolutionized the transportation delivery system for BRAC University students, providing a seamless and stress-free way to access bus services within the campus.
 
-****Project Features ****
+#****Project Features ****
 1. Sign up
 2. User Login
 3. Admin Login
@@ -19,17 +19,17 @@ With its user-friendly interface and comprehensive features, the Online Bus Tick
 13. User review
 14. Admin feedbacks
 
-****Language: HTML, CSS, PHP**
-**Database: MYSQL**
-**ALert : Sweet Alert****
+#****Language: HTML, CSS, PHP**
+#**Database: MYSQL**
+#**ALert : Sweet Alert****
 
-****References****
+#****References****
 
-https://www.freepik.com/icons/facebook
-https://sweetalert2.github.io/
-https://www.w3schools.com/css/
-https://stackoverflow.com/questions/4249432/export-to-csv-via-php
-https://www.cloudways.com/blog/import-export-csv-using-php-and-mysql/
+https://www.freepik.com/icons/facebook <br>
+https://sweetalert2.github.io/ <br>
+https://www.w3schools.com/css/ <br>
+https://stackoverflow.com/questions/4249432/export-to-csv-via-php <br>
+https://www.cloudways.com/blog/import-export-csv-using-php-and-mysql/ <br>
 
 
 ![img1](https://github.com/cadmostafijur/BRACU_BUS/assets/104758273/6a7a70fd-22ca-4a06-983f-bfe7f62c67bd)
