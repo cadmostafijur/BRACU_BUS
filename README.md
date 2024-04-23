@@ -20,11 +20,12 @@ With its user-friendly interface and comprehensive features, the Online Bus Tick
 13. User review
 14. Admin feedbacks
  
-# Language: HTML, CSS, PHP 
+# Language:
+Frontend: HTML, CSS, PHP 
 <br>
-# Database: MYSQL
+ Database: MYSQL
 <br>
-# ALert : Sweet Alert
+ALert : Sweet Alert
 
 
 # References
