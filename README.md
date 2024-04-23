@@ -1,5 +1,5 @@
 
-****#Introduction**** <br>
+#Introduction <br>
 Online Bus Ticket Management System is a platform for students of BRAC University. In the nustling environment of a university campus like BRAC  University ,efficient transportation is essential for students to navigate their academic journey smoothly. Online Bus Ticket Management System is  a convenient platform specially designed for BRAC University students to purchase bus tickets seamlessly without any hassle.The online bus ticket management system not only simplifies the ticketing process but also enhances the overall transportation experience for students. By providing real-time updates, it empowers students to plan their journeys efficiently, ensuring they reach their destinations on time.
 With its user-friendly interface and comprehensive features, the Online Bus Ticket Management System has revolutionized the transportation delivery system for BRAC University students, providing a seamless and stress-free way to access bus services within the campus.
 
